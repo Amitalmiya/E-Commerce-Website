@@ -56,7 +56,7 @@
  	<li>FancyBox for displaying single products images</li>
  	<li>Contact Form, Checkout Form, Account Form etc.</li>
 </ul>
-<p style="text-align: left;"><b>Khaki Online Shop HTML5 Website Template Pages Included</b></p>
+<p style="text-align: left;"><b> Online Shop HTML5 Website Template Pages Included</b></p>
 <ul>
  	<li>index page</li>
  	<li>shop page</li>
